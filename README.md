@@ -10,7 +10,6 @@ Atualmente curso Análise e Desenvolvimento de Sistemas na Universidade Tecnoló
 Sempre gostei de tecnologia, brinco que nasci em uma lan house. Em 2022, iniciei meus estudos na área por meio de cursos presenciais que me proporcionaram contato direto com o desenvolvimento web e low-code. Desde então, construí aplicações completas utilizando JavaScript, HTML e CSS com Bootstrap no front-end, e Node.js com Express no back-end, criando APIs REST e trabalhando com bancos de dados MySQL e NoSQL (MongoDB), também tive a oportunidade de realizar/participar de programas como o Oracle Next Education e o Santander Tech+. <p>Além disso, atuei por 6 meses como instrutor voluntário de lógica de programação no Lab 365 (SENAI), uma experiência muito bacana, onde pude reforçar meus conhecimentos, desenvolver habilidades de comunicação técnica e ajudar outros iniciantes em sua jornada na programação.
 
 Atuei por 8 anos como militar, onde desenvolvi soft skills valiosas como a comunicação, abnegação, resiliência, proatividade, trabalho em equipe, organização e a capacidade de trabalhar sob pressão, habilidades que trago comigo para o mundo da tecnologia.
-
 </div>
 
 <p>  
