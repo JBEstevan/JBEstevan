@@ -1,12 +1,85 @@
-# 👋 Prazer, eu sou Juan Estevan B. Eleuterio
+# 👋 Olá, eu sou o Juan Estevan!
 
-**`Cabo do Exército Brasileiro`** | **`Desenvolvedor Backend Jr (Java & Node.js)`**
+**`Desenvolvedor Backend (Java • Spring Boot • Node.js)`**|**`ADS UTFPR`** |**`Ex-Militar (Inteligência)`**| **`Embaixador Campus DIO`**
 
-Atualmente em transição de carreira para a área de tecnologia, sou Desenvolvedor Backend Jr com experiência prática em **Java (POO)**, JavaScript, Node.js, Express, PHP e bancos de dados MySQL e MongoDB. Minha formação em andamento em Análise e Desenvolvimento de Sistemas na Universidade Tecnológica Federal do Paraná (UTFPR) complementa meu aprendizado técnico e consolida minha base em lógica de programação.  
+🎓 Graduando em **Análise e Desenvolvimento de Sistemas na UTFPR** (previsão de formatura em 2028), focado no desenvolvimento de aplicações **Backend robustas, APIs RESTful e automações com Inteligência Artificial**.
 
-Desde criança me mantenho conectado ao PC (costumo brincar que nasci em uma lan house 🎮) e iniciei meus estudos na área do Dev em 2022. Desde então, participei de programas de formação, como Oracle Next Education e Santander Tech+, e também atuei como instrutor voluntário de lógica de programação no Lab 365 (SENAI) e, atualmente, sou Embaixador Campus da **DIO (Digital Innovation One)**, fortalecendo meu compromisso com o compartilhamento de conhecimento, liderança e engajamento da comunidade de tecnologia.
+🪖 Servi por **8 anos no Exército Brasileiro (sendo 4 anos na área de Inteligência)**, onde desenvolvi a comunicação, proatividade, pensamento analítico, resiliência, disciplina e tomada de decisão sob pressão. Hoje, aplico essa mesma maturidade na Engenharia de Software.
 
-🪖 No Exército Brasileiro, onde atuei por 8 anos, desenvolvi habilidades valiosas como a comunicação, proatividade, trabalho em equipe, organização e a capacidade de trabalhar sob pressão, competências que trago comigo para o mundo da tecnologia. Estou comprometido em crescer como profissional e agregar valor por meio de soluções inovadoras.
+🤝 Atuei como **instrutor voluntário de Lógica de Programação** no Lab365 (SENAI) e hoje atuo como **instrutor voluntário de Informática** na ONG Lua Nova, gosto de ensinar e acredito que a melhor forma de aprender é ensinando.
+
+---
+
+### 🛠️ Tecnologias & Ferramentas
+
+#### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,maven" />
+</p>
+
+#### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=javascript,html,css,bootstrap" />
+</p>
+
+#### Banco de Dados
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+</p>
+
+#### Cloud, DevOps & Ferramentas
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,linux,docker,vercel,render" />
+</p>
+
+#### IA & Automação
+> **n8n** • **RAG** • **Agentes de IA** • **GitHub Copilot** • **Claude** • **Cursor** • **Prompt Engineering**
+
+---
+
+### 🚀 Projetos em Destaque
+
+#### 🤖 [HR Buddy - Automação Inteligente para RH](https://github.com/JBEstevan)
+> Bot para Telegram que automatiza rotinas de RH utilizando IA (Projeto do programa *Oracle Next Education - Tech AI Builder*).
+* **Techs:** n8n, MySQL, Telegram API, RAG e Agentes de IA.
+* **Destaques:** Injeção de contexto via RAG, eliminação de alucinações da LLM e integração com banco relacional.
+
+#### ☕ [Sistema de Gestão de Pousada](https://github.com/JBEstevan)
+> Sistema desktop desenvolvido para gestão de hospedagens, reservas e persistência de dados.
+* **Techs:** Java, JDBC, Swing (WindowBuilder), SQL, XML.
+* **Destaques:** 
+  * Arquitetura em camadas com separação de responsabilidades (**DAO, DTO, Service, GUI**).
+  * Consultas SQL diretas para operações **CRUD** e persistência via **JDBC**.
+  * Mecanismo de **logs da aplicação** e geração de **relatórios em XML**.
+
+#### 🚗 [API REST Oficina Mecânica](https://github.com/JBEstevan/projetoOficina)
+> API RESTful completa para gerenciamento de oficinas mecânicas, veículos e ordens de serviço.
+* **Techs:** Node.js, Express, MongoDB (Mongoose), JWT, Bcrypt, Render.
+* **Destaques:** Autenticação JWT, controle de acesso RBAC, integração com API ViaCEP e deploy em nuvem.
+
+---
+
+### 🏆 Certificações & Programas
+
+* **Oracle Next Education** - *Tech AI Builder*
+* **Santander Tech+** - *Formação Backend*
+* **Google** - *AI Essentials* & *Prompting Essentials*
+* **Cisco Networking Academy** - *Introduction to Cybersecurity*
+* **Lions Startups** - *Liderança & Tecnologia*
+
+---
+
+### 📚 Estudando no momento
+
+`Spring Boot` • `Microsserviços` • `Docker` • `Testes Automatizados` • `AWS` • `Arquitetura de Sistemas`
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=JBEstevan&theme=tokyonight&hide_border=false" />
+</p>
 
 ---
 
@@ -29,35 +102,6 @@ Desde criança me mantenho conectado ao PC (costumo brincar que nasci em uma lan
 
 ---
 
-### 📚 Linguagens e Tecnologias
-
-<p align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" width="46" height="46" style="margin-right: 10px;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" width="46" height="46" style="margin-right: 10px;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="46" height="46" style="margin-right: 10px;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="Java" width="46" height="46" style="margin-right: 10px;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="46" height="46" style="margin-right: 10px;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="46" height="46" style="margin-right: 10px;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" alt="Express" width="56" height="46" style="margin-right: 10px;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="PHP" width="46" height="46" style="margin-right: 10px;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="46" height="46" style="margin-right: 10px;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original-wordmark.svg" alt="MariaDB" width="46" height="46" style="margin-right: 10px;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="46" height="46" style="margin-right: 10px;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original-wordmark.svg" alt="Mongoose" width="46" height="46" style="margin-right: 10px;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="46" height="46" style="margin-right: 10px;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" alt="NPM" width="46" height="46" style="margin-right: 10px;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="Postman" width="46" height="46" style="margin-right: 10px;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain.svg" alt="Axios" width="46" height="46" style="margin-right: 10px;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original-wordmark.svg" alt="Ubuntu" width="46" height="46" style="margin-right: 10px;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" alt="Windows 11" width="46" height="46" style="margin-right: 10px;"/>
-    <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" style="margin-right: 10px;"/>
-    <img src="https://img.shields.io/badge/FlutterFlow-101223?style=for-the-badge&logo=FlutterFlow&logoColor=white" alt="FlutterFlow" style="margin-right: 10px;"/>
-</p>
-
----
-
 ### 📈 Frase que me motiva
 
 [![readme Quotes](https://quotes-github-readme.vercel.app/api?quote=A%20melhor%20maneira%20de%20prever%20o%20futuro%20%C3%A9%20cri%C3%A1-lo.&type=horizontal&author=Alan%20Kay)](https://github.com/piyushsuthar/github-readme-quotes)
-
----
