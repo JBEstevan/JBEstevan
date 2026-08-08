@@ -44,7 +44,7 @@
 * **Techs:** n8n, MySQL, Telegram API, RAG e Agentes de IA.
 * **Destaques:** Injeção de contexto via RAG, eliminação de alucinações da LLM e integração com banco relacional.
 
-#### ☕ [Sistema de Gestão de Pousada](https://github.com/JBEstevan)
+#### ☕ [Sistema de Gestão de Pousada](https://github.com/JBEstevan/hotel-management-system)
 > Sistema desktop desenvolvido para gestão de hospedagens, reservas e persistência de dados.
 * **Techs:** Java, JDBC, Swing (WindowBuilder), SQL, XML.
 * **Destaques:** 
