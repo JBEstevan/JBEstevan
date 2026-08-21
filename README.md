@@ -1,12 +1,12 @@
 # 👋 Olá, eu sou o Juan Estevan!
 
-**`Desenvolvedor Backend (Java • Spring Boot • Node.js)`**|**`ADS UTFPR`** |**`Ex-Militar (Inteligência)`**| **`Embaixador Campus DIO`**
+**`Desenvolvedor Backend & Full Stack`** | **`ADS UTFPR`** | **`Google Student Ambassador`** | **`Tech AI Builder`** | **`Embaixador Campus DIO`**
 
-🎓 Graduando em **Análise e Desenvolvimento de Sistemas na UTFPR** (previsão de formatura em 2028), focado no desenvolvimento de aplicações **Backend robustas, APIs RESTful e automações com Inteligência Artificial**.
+🎓 Graduando em **Análise e Desenvolvimento de Sistemas na UTFPR** (previsão de formatura em 2028), focado no desenvolvimento de aplicações **Backend robustas, APIs RESTful, bancos de dados e soluções com Inteligência Artificial**.
 
-🪖 Servi por **8 anos no Exército Brasileiro (sendo 4 anos na área de Inteligência)**, onde desenvolvi a comunicação, proatividade, pensamento analítico, resiliência, disciplina e tomada de decisão sob pressão. Hoje, aplico essa mesma maturidade na Engenharia de Software.
+📊 Atuei por **8 anos no setor público na área administrativa, de gestão de operações e inteligência de dados e processos**, onde desenvolvi proatividade, comunicação, resiliência, atenção rigorosa a detalhes, tomada de decisão sob pressão e trabalho em equipe. Hoje, aplico essa maturidade profissional na Engenharia de Software.
 
-🤝 Atuei como **instrutor voluntário de Lógica de Programação** no Lab365 (SENAI) e hoje atuo como **instrutor voluntário de Informática** na ONG Lua Nova, gosto de ensinar e acredito que a melhor forma de aprender é ensinando.
+🤝 Atuo como **instrutor voluntário de Informática** (ONG Lua Nova / UTFPR) e atuei no Lab365 (SENAI) com lógica de programação, fortalecendo minha didática, empatia e facilidade para traduzir conceitos técnicos com clareza.
 
 ---
 
@@ -29,38 +29,39 @@
 
 #### Cloud, DevOps & Ferramentas
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,linux,docker,vercel,render" />
+  <img src="https://skillicons.dev/icons?i=linux,git,github,docker,postman,vercel,render" />
 </p>
 
 #### IA & Automação
-> **n8n** • **RAG** • **Agentes de IA** • **GitHub Copilot** • **Claude** • **Cursor** • **Prompt Engineering**
+> **n8n** • **RAG** • **Agentes de IA** • **Claude** • **GitHub Copilot** • **Cursor** • **Windsurf** • **Prompt Engineering**
 
 ---
 
 ### 🚀 Projetos em Destaque
 
 #### 🤖 [HR Buddy - Automação Inteligente para RH](https://github.com/JBEstevan)
-> Bot para Telegram que automatiza rotinas de RH utilizando IA (Projeto do programa *Oracle Next Education - Tech AI Builder*).
+> Bot para Telegram focado em automação de rotinas de RH com IA (*Oracle Next Education - Tech AI Builder*).
 * **Techs:** n8n, MySQL, Telegram API, RAG e Agentes de IA.
 * **Destaques:** Injeção de contexto via RAG, eliminação de alucinações da LLM e integração com banco relacional.
 
 #### ☕ [Sistema de Gestão de Pousada](https://github.com/JBEstevan/hotel-management-system)
-> Sistema desktop desenvolvido para gestão de hospedagens, reservas e persistência de dados.
+> Sistema desktop para gestão de hospedagens, reservas e persistência estruturada de dados.
 * **Techs:** Java, JDBC, Swing (WindowBuilder), SQL, XML.
 * **Destaques:** 
-  * Arquitetura em camadas com separação de responsabilidades (**DAO, DTO, Service, GUI**).
+  * Arquitetura em camadas com separação clara de responsabilidades (**DAO, DTO, Service, GUI**).
   * Consultas SQL diretas para operações **CRUD** e persistência via **JDBC**.
-  * Mecanismo de **logs da aplicação** e geração de **relatórios em XML**.
+  * Mecanismo de **logs da aplicação** e emissão de **relatórios em XML**.
 
 #### 🚗 [API REST Oficina Mecânica](https://github.com/JBEstevan/projetoOficina)
 > API RESTful completa para gerenciamento de oficinas mecânicas, veículos e ordens de serviço.
 * **Techs:** Node.js, Express, MongoDB (Mongoose), JWT, Bcrypt, Render.
-* **Destaques:** Autenticação JWT, controle de acesso RBAC, integração com API ViaCEP e deploy em nuvem.
+* **Destaques:** Autenticação JWT, controle de acesso baseado em funções (RBAC), consumo da API ViaCEP e deploy em nuvem.
 
 ---
 
-### 🏆 Certificações & Programas
+### 🏆 Reconhecimentos, Certificações & Programas
 
+* **Google** - *Google Student Ambassador 2026*
 * **Oracle Next Education** - *Tech AI Builder*
 * **Santander Tech+** - *Formação Backend*
 * **Google** - *AI Essentials* & *Prompting Essentials*
@@ -71,7 +72,7 @@
 
 ### 📚 Estudando no momento
 
-`Spring Boot` • `Microsserviços` • `Docker` • `Testes Automatizados` • `AWS` • `Arquitetura de Sistemas`
+`Spring Boot` • `Microsserviços` • `Docker` • `AWS` • `Observabilidade & DevOps` • `Kubernetes` • `Arquitetura de Sistemas`
 
 ---
 
