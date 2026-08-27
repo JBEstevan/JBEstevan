@@ -1,12 +1,12 @@
 # 👋 Olá, eu sou o Juan Estevan!
 
-**`Desenvolvedor Backend & Full Stack`** | **`ADS UTFPR`** | **`Google Student Ambassador`** | **`Tech AI Builder`** | **`Embaixador Campus DIO`**
+**`Desenvolvedor Backend & APIs REST`** | **`ADS UTFPR`** | **`Google Student Ambassador`** | **`Tech AI Builder`**
 
-🎓 Graduando em **Análise e Desenvolvimento de Sistemas na UTFPR** (previsão de formatura em 2028), focado no desenvolvimento de aplicações **Backend robustas, APIs RESTful, bancos de dados e soluções com Inteligência Artificial**.
+🎓 Graduando em **Análise e Desenvolvimento de Sistemas na UTFPR** (previsão: 03/2028), focado na construção de aplicações **Backend robustas, APIs RESTful, bancos de dados e integração de soluções com Inteligência Artificial**.
 
-📊 Atuei por **8 anos no setor público na área administrativa, de gestão de operações e inteligência de dados e processos**, onde desenvolvi proatividade, comunicação, resiliência, atenção rigorosa a detalhes, tomada de decisão sob pressão e trabalho em equipe. Hoje, aplico essa maturidade profissional na Engenharia de Software.
+📊 Atuei por **8 anos no setor público  na área administrativa, de gestão de operações e inteligência de dados e processos**, onde desenvolvi proatividade, comunicação, resiliência, atenção rigorosa a detalhes, tomada de decisão sob pressão e trabalho em equipe. Hoje, aplico essa maturidade profissional na Engenharia de Software.
 
-🤝 Atuo como **instrutor voluntário de Informática** (ONG Lua Nova / UTFPR) e atuei no Lab365 (SENAI) com lógica de programação, fortalecendo minha didática, empatia e facilidade para traduzir conceitos técnicos com clareza.
+🤝 Atuo como **instrutor voluntário de Informática** (ONG Lua Nova / UTFPR), fui instrutor de lógica de programação no Lab365 (SENAI), sou representante discente no **DACOMP da UTFPR** e **Embaixador Estudantil do Google 2026**.
 
 ---
 
@@ -22,14 +22,14 @@
   <img src="https://skillicons.dev/icons?i=javascript,html,css,bootstrap" />
 </p>
 
-#### Banco de Dados
+#### Bancos de Dados
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
 </p>
 
 #### Cloud, DevOps & Ferramentas
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,git,github,docker,postman,vercel,render" />
+  <img src="https://skillicons.dev/icons?i=linux,git,github,aws,docker,postman,vercel,render" />
 </p>
 
 #### IA & Automação
@@ -39,40 +39,49 @@
 
 ### 🚀 Projetos em Destaque
 
-#### 🤖 [HR Buddy - Automação Inteligente para RH](https://github.com/JBEstevan)
-> Bot para Telegram focado em automação de rotinas de RH com IA (*Oracle Next Education - Tech AI Builder*).
-* **Techs:** n8n, MySQL, Telegram API, RAG e Agentes de IA.
-* **Destaques:** Injeção de contexto via RAG, eliminação de alucinações da LLM e integração com banco relacional.
+#### ☕ [Appointment Booking API](https://github.com/JBEstevan/appointment-booking-backend)
+> API RESTful para agendamento e gerenciamento automatizado de serviços e consultas.
+* **Techs:** Java 21, Spring Boot 3, Spring Data JPA, Hibernate ORM, H2 Database (SQL), Bean Validation, Maven, Git.
+* **Destaques:** 
+  * Arquitetura em camadas desacopladas (**Controller, Service, Repository e Entity)**.
+  * Mapeamento objeto-relacional com **Spring Data JPA / Hibernate** e tratamento global de exceções.
+  * Validações de integridade e regras de negócio com **Bean Validation**.
+
+#### 🤖 [AI Code Mentor](https://github.com/JBEstevan/ai-code-mentor) | [🚀 Live Demo](https://ai-code-mentor-4uai.onrender.com)
+> Mentor virtual para análise de código, refatoração e ensino de Clean Code (*Oracle Tech AI Builder*).
+* **Techs:** Python 3.11, Streamlit, LangChain, Google Gemini API, ChromaDB, Render.
+* **Destaques:** 
+  * Implementação de **Arquitetura RAG** (Retrieval-Augmented Generation) com ingestão de PDF.
+  * Banco de dados vetorial (**ChromaDB**) para busca semântica de contexto.
+  * Deploy em nuvem (Render) e controle de escopo no *Prompt Engineering* para mitigar alucinações da LLM.
 
 #### ☕ [Sistema de Gestão de Pousada](https://github.com/JBEstevan/hotel-management-system)
-> Sistema desktop para gestão de hospedagens, reservas e persistência estruturada de dados.
-* **Techs:** Java, JDBC, Swing (WindowBuilder), SQL, XML.
-* **Destaques:** 
-  * Arquitetura em camadas com separação clara de responsabilidades (**DAO, DTO, Service, GUI**).
-  * Consultas SQL diretas para operações **CRUD** e persistência via **JDBC**.
-  * Mecanismo de **logs da aplicação** e emissão de **relatórios em XML**.
+> Sistema desktop para gestão de pousadas, controle de reservas e logs.
+* **Techs:** Java, JDBC, SQL, Swing (WindowBuilder), XML, Apache POI.
+* **Destaques:** Arquitetura em camadas (**DAO, DTO, Service, GUI**), prevenção contra SQL Injection com *PreparedStatements* e relatórios estruturados.
 
 #### 🚗 [API REST Oficina Mecânica](https://github.com/JBEstevan/projetoOficina)
-> API RESTful completa para gerenciamento de oficinas mecânicas, veículos e ordens de serviço.
+> API RESTful para gerenciamento de clientes, veículos e ordens de serviço.
 * **Techs:** Node.js, Express, MongoDB (Mongoose), JWT, Bcrypt, Render.
-* **Destaques:** Autenticação JWT, controle de acesso baseado em funções (RBAC), consumo da API ViaCEP e deploy em nuvem.
+* **Destaques:** Autenticação e autorização via JWT, controle de acesso baseado em funções (RBAC) e deploy em nuvem.
 
 ---
 
-### 🏆 Reconhecimentos, Certificações & Programas
+### 🏆 Reconhecimentos, Programas & Liderança
 
-* **Google** - *Google Student Ambassador 2026*
-* **Oracle Next Education** - *Tech AI Builder*
-* **Santander Tech+** - *Formação Backend*
-* **Google** - *AI Essentials* & *Prompting Essentials*
-* **Cisco Networking Academy** - *Introduction to Cybersecurity*
-* **Lions Startups** - *Liderança & Tecnologia*
+* **Google** – *Google Student Ambassador 2026*
+* **UTFPR** – *Representante Discente DACOMP*
+* **Oracle Next Education** – *Formação Tech AI Builder*
+* **Santander Tech+** – *Formação Backend (Ada Tech)*
+* **Lions Startups** – *Formação Liderança & Tecnologia (370h)*
+* **Cisco Networking Academy** – *Introduction to Cybersecurity*
+* **Google** – *AI Essentials & Prompting Essentials*
 
 ---
 
 ### 📚 Estudando no momento
 
-`Spring Boot` • `Microsserviços` • `Docker` • `AWS` • `Observabilidade & DevOps` • `Kubernetes` • `Arquitetura de Sistemas`
+`Spring Security` • `Testes Unitários e Integração (JUnit 5 / Mockito)` • `Docker & Microsserviços` • `AWS` • `Clean Architecture`
 
 ---
 
@@ -103,6 +112,4 @@
 
 ---
 
-### 📈 Frase que me motiva
-
-[![readme Quotes](https://quotes-github-readme.vercel.app/api?quote=A%20melhor%20maneira%20de%20prever%20o%20futuro%20%C3%A9%20cri%C3%A1-lo.&type=horizontal&author=Alan%20Kay)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Frase](https://quotes-github-readme.vercel.app/api?quote=A%20melhor%20maneira%20de%20prever%20o%20futuro%20%C3%A9%20cri%C3%A1-lo.&type=horizontal&author=Alan%20Kay)](https://github.com/piyushsuthar/github-readme-quotes)
